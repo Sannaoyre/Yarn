@@ -1,0 +1,12 @@
+{
+  "name": "Yarn",
+  "version": "1.0.0",
+  "description": "Module assignment 2. Yarn files.",
+  "main": "index.js",
+  "repository": "https://github.com/Sannaoyre/Yarn.git",
+  "author": "Sanna Oyre",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
